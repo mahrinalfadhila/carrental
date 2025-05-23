@@ -1,0 +1,27 @@
+=-Tutorial Pemasangan Program-=
+
+1. Install Xampp
+2. Seletah Install XAMPP lalu buka XAMPP nya
+3. aktif kan bagian Apache dan Mysql
+4. Extract File Program nya ke "C:\xampp\htdocs\" dan letakkan disana
+5. Buka browser yang ada di laptop anda (mozilla firefox,google chrome) pilih salah satu browser
+6. Ketikkan pada URL "localhost/phpmyadmin" browser anda
+7. Buat database dengan nama "rentalmobil_db" lalu tekan enter
+8. setelah database dibuat,import database yang telah dibuat tadi dengan menekan tombol Impor/Import pada menu bagian atas
+9. pilih file database dengan nama "rentalmobil_db" yang ada di folder program tadi
+10. setelah file database nya dipilih,tekan kirim
+11. setelah databasenya ter-import buka URL "http://localhost/Rental-Mobil-master/" pada browser anda dan tekan enter
+12. setelah masuk ke program,silahkan enjoy menikmati program yang telah berhasil.
+
+untuk akun login admin
+======================
+email : admin
+password : admin
+
+untuk akun login user harus diregistrasi terlebih dahulu dengan menekan tombol register pada program
+====================================================================================================
+
+
+enjoy using the program,semoga bermanfaat
+
+created by : Farel Febriano
